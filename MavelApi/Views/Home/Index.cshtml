@@ -1,0 +1,14 @@
+﻿@model List<MavelApi.Models.Comics>
+
+@foreach(var item in @Model) { 
+<div style="overflow: hidden; margin-top: 50px;">
+    <div style="float: left; margin-right: 50px;">
+        <img src="@item.Image" height="200" width="200" />
+    </div>
+    <div style="margin-left: 50px;">
+        <h2><a href="@item.URL">@item.Title</a></h2>
+        <p>UPC:@item.UPC</p>
+        <h4><a href="@item.Details">Detalhes</a></h4>
+    </div>
+</div>
+}

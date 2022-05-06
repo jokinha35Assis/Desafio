@@ -1,0 +1,78 @@
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\MavelApi.exe
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\MavelApi.deps.json
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\MavelApi.runtimeconfig.json
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\MavelApi.runtimeconfig.dev.json
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\MavelApi.dll
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\ref\MavelApi.dll
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\MavelApi.pdb
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\MavelApi.Views.dll
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\MavelApi.Views.pdb
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.AssemblyInfoInputs.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.AssemblyInfo.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.csproj.CoreCompileInputs.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.RazorAssemblyInfo.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.RazorAssemblyInfo.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\scopedcss\bundle\MavelApi.styles.css
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\staticwebassets\MavelApi.StaticWebAssets.Manifest.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.TagHelpers.input.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.TagHelpers.output.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.RazorCoreGenerate.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.RazorTargetAssemblyInfo.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.RazorTargetAssemblyInfo.cs
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.Views.pdb
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.dll
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\ref\MavelApi.dll
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.pdb
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.genruntimeconfig.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.csproj.CopyComplete
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\obj\Debug\net5.0\MavelApi.csproj.AssemblyReference.cache
+C:\Users\Mayardes Oliveira\Desktop\Josy\C#\Prova\MavelApi\MavelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\appsettings.json
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\MavelApi.exe
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\MavelApi.deps.json
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\MavelApi.runtimeconfig.json
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\MavelApi.runtimeconfig.dev.json
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\MavelApi.dll
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\MavelApi.pdb
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\MavelApi.Views.dll
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\MavelApi.Views.pdb
+C:\Users\josea\source\repos\MarvelComics\MavelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.AssemblyInfo.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.RazorAssemblyInfo.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.RazorAssemblyInfo.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\scopedcss\bundle\MavelApi.styles.css
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\staticwebassets\MavelApi.StaticWebAssets.Manifest.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.TagHelpers.input.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.TagHelpers.output.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.RazorCoreGenerate.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.RazorTargetAssemblyInfo.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.RazorTargetAssemblyInfo.cs
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.Views.pdb
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.csproj.CopyComplete
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.dll
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\refint\MavelApi.dll
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.pdb
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\MavelApi.genruntimeconfig.cache
+C:\Users\josea\source\repos\MarvelComics\MavelApi\obj\Debug\net5.0\ref\MavelApi.dll
